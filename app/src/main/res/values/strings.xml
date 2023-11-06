@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">calculadora</string>
     <string name="lpm_llamen_a_jesucristo">lpm llamen a jesucristo</string>
+    <string name="sumar">sumar</string>
+    <string name="resultat">Resultat</string>
+    <string name="comprovar_resultat">comprovar resultat</string>
+    <string name="num1">num1</string>
+    <string name="num2">num2</string>
 </resources>
